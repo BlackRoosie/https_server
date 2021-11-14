@@ -1,0 +1,7 @@
+{
+	"address":  "0.0.0.0",
+	"port": 8080,
+	"defaultErrorCode": 404,
+	"rootFolder": "D:\\studia\\programy_mentoringowe\\ITforShe\\http_server\\http_server",
+	"htmlFile" = "/index.html"
+}
